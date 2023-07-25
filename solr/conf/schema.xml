@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!--
     Violet - The default schema for StarStart! Service
-    https://github.com/star-inc/butterfly
-    (c)2020 Star Inc.
-    This Source Code Form is subject to the terms of the Mozilla Public
-    License, v. 2.0. If a copy of the MPL was not distributed with this
-    file, You can obtain one at http://mozilla.org/MPL/2.0/.
+    https://github.com/star-inc/violet
+    (c) 2023 Star Inc.
 -->
 <schema name="violet" version="1.6">
     <uniqueKey>id</uniqueKey>
